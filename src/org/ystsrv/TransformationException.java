@@ -1,7 +1,7 @@
 /*
  *  Yeast-Server for Java
  *
- *  Copyright (c) 2011, Francisco José García Izquierdo. University of La
+ *  Copyright (c) 2011, Francisco Jose García Izquierdo. University of La
  *  Rioja. Mathematics and Computer Science Department. All Rights Reserved.
  *
  *  Contributing Author(s):
@@ -38,7 +38,7 @@ package org.ystsrv;
  * Exception used to report problems during the transformation of the objects
  * used to fulfill the model section of a Yeast template.
  *
- * @author Francisco José García Izquierdo
+ * @author Francisco Jose García Izquierdo
  * @version 1.0
  */
 public class TransformationException extends YSTException {
