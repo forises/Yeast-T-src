@@ -1,12 +1,12 @@
 /*
  *  Yeast-Server for Java
  *
- *  Copyright (c) 2011, Francisco José García Izquierdo. University of La
+ *  Copyright (c) 2011, Francisco Jose Garcia Izquierdo. University of La
  *  Rioja. Mathematics and Computer Science Department. All Rights Reserved.
  *
  *  Contributing Author(s):
  *
- *     Francisco J. García Iquierdo <francisco.garcia@unirioja.es>
+ *     Francisco J. Garcia Iquierdo <francisco.garcia@unirioja.es>
  *
  *  COPYRIGHT PERMISSION STATEMENT:
  *
@@ -84,7 +84,7 @@ import org.ystsrv.util.TextUtils;
  * fact does not represent any inconvenience because <code>Template</code>
  * objects are threadsafe
  *
- * @author Francisco José García Izquierdo
+ * @author Francisco Jose Garcia Izquierdo
  * @version 1.0
  */
 public class TemplateManager {
